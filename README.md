@@ -1,5 +1,7 @@
 # 八戒 Bajie 官网注册入口说明与多平台使用指南
 
+<img src="https://raw.githubusercontent.com/jichangbaike/bajie/refs/heads/main/bajie.png">
+
 八戒（Bajie）是魔戒（Mojie）旗下的分站，定位偏向 **低价 + 轻量使用**。  
 整体采用 **IEPL 跨境专线 + 国内 BGP 多线入口** 的架构，节点数量不多（约 14 个），但价格非常友好，适合预算有限、只求稳定可用的用户。
 
