@@ -67,7 +67,7 @@
 
 ### 网络表现概览
 
-测试表现（示例）：
+测试表现：
 
 - 港 / 台 / 新节点延迟较低，适合作为日常主力节点使用；  
 - 美西节点延迟在合理范围内，适合访问部分北美服务；  
@@ -75,6 +75,7 @@
   - 网页、视频、AI 工具使用基本流畅；  
   - 虽有波动，但未出现普遍不可用情况。
 
+<img src="https://raw.githubusercontent.com/jichangbaike/bajie/refs/heads/main/5199.png" >
 ---
 
 ## 套餐与价格一览
@@ -154,7 +155,7 @@
 
 - **桌面端**  
   - Windows / macOS / Linux：  
-    - 可搭配 Clash 系列、NekoRay、SS 相关客户端等使用；  
+    - 可搭配 Clash Verge Rev、FlClash相关客户端等使用；  
     - 通过订阅链接或配置文件导入节点统一管理。
 
 - **移动端**  
