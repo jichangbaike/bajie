@@ -1,6 +1,6 @@
 # 八戒 Bajie 官网注册入口说明与多平台使用指南
 
-<img src="https://raw.githubusercontent.com/jichangbaike/bajie/refs/heads/main/bajie.png">
+<img src="https://raw.githubusercontent.com/jichangbaike/bajie/refs/heads/main/images/bajie.png">
 
 八戒（Bajie）是魔戒（Mojie）旗下的分站，定位偏向 **低价 + 轻量使用**。  
 整体采用 **IEPL 跨境专线 + 国内 BGP 多线入口** 的架构，节点数量不多（约 14 个），但价格非常友好，适合预算有限、只求稳定可用的用户。
@@ -8,7 +8,7 @@
 本仓库用于整理八戒 Bajie 的官网注册入口说明、套餐信息、多平台使用指引以及常见问题，仅提供公开信息汇总，请以官网公布为准。
 
 > 本文档不构成任何投资或使用建议，仅作为使用说明类资料，请在合法合规前提下使用相关服务。  
-> 最后更新：2025-12-10（如套餐或线路有调整，以官网为准）
+> 最后更新：2026-02-09（如套餐或线路有调整，以官网为准）
 
 ---
 
@@ -77,8 +77,9 @@
   - 网页、视频、AI 工具使用基本流畅；  
   - 虽有波动，但未出现普遍不可用情况。
 
-<img src="https://raw.githubusercontent.com/jichangbaike/bajie/refs/heads/main/5199.png" >
----
+<img src="https://raw.githubusercontent.com/jichangbaike/bajie/refs/heads/main/images/bajie-test-20260209.png" >
+
+> 测试时间：2026-02-09
 
 ## 套餐与价格一览
 
