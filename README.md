@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/jichangbaike/bajie/refs/heads/main/images/bajie.png">
 
-**八戒（Bajie）** 是**魔戒（Mojie）** 旗下的分站，定位偏向 **低价 + 轻量使用**，整体采用 **IEPL 跨境专线 + 国内 BGP 多线入口** 的架构，节点数量不多（约 14 个），但价格非常友好，适合预算有限、只求稳定可用的用户。
+**八戒（Bajie）** 是**魔戒（Mojie）** 旗下的分站，定位偏向 **低价 + 轻量使用**，整体采用 **IEPL 跨境专线 + 国内 BGP 多线入口** 的架构，节点数量不多（约 12 个），但价格非常友好，适合预算有限、只求稳定可用的用户。
 
 八戒的大部分节点解锁了 Netflix、Disney+、OpenAI 和 Gemini服务，网络速度比魔戒好一些，不限制设备数。
 
