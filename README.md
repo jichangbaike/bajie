@@ -8,7 +8,7 @@
 
 
 > 本仓库用于整理八戒 Bajie 的官网注册入口说明、套餐信息、多平台使用指引以及常见问题，仅提供公开信息汇总，请以官网公布为准。  
-> 最后更新：2026-06-29
+> 最后更新：2026-8-9
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -20,8 +20,8 @@
 
 ## 快速入口
 
-- 👉 **八戒 Bajie 官方注册入口（直达）**：  
-  [https://finalto.xyz/v1sWci](https://finalto.xyz/v1sWci)
+👉 **八戒 Bajie 官方注册入口（直达）**：  
+[进入八戒 BaJie 官网](https://finalto.xyz/v1sWci)
 
 建议在桌面浏览器中打开该链接，完成账号注册与套餐选择。后续订阅获取和客户端配置步骤，可参考本说明文档。
 
@@ -83,9 +83,9 @@
   - 网页、视频、AI 工具使用基本流畅；  
   - 虽有波动，但未出现普遍不可用情况。
 
-<img src="https://raw.githubusercontent.com/jichangbaike/bajie/refs/heads/main/images/bajie-test-20260629.png" alt="八戒 bajie 机场">
+<img src="https://raw.githubusercontent.com/jichangbaike/bajie/refs/heads/main/images/bajie-test-20260809.png" alt="八戒 bajie 机场">
 
-> 测试时间：2026-06-29， 测试网络：电信 2Gbps
+> 测试时间：2026-8-9， 测试网络：电信 1Gbps
 
 ## 套餐与价格一览
 
@@ -187,7 +187,7 @@
 
 1. **访问八戒 Bajie 官方注册入口**  
    使用本说明文档中的注册链接进入八戒用户中心：  
-   [https://finalto.xyz/v1sWci](https://finalto.xyz/v1sWci)
+   [进入八戒 BaJie 官网](https://finalto.xyz/v1sWci)
 
 2. **注册并登录账户**  
    使用常用邮箱等方式完成注册，并登录到用户中心。
@@ -252,7 +252,7 @@ A：建议优先查看八戒官网的帮助文档、公告与使用说明。如�
 ## 官方注册入口与使用提示
 
 - 👉 **八戒 Bajie 官方注册入口（直达）**：  
-  [https://finalto.xyz/v1sWci](https://finalto.xyz/v1sWci)
+  [进入八戒 BaJie 官网](https://finalto.xyz/v1sWci)
 
 > 本仓库仅整理公开入口信息与基础使用说明，不提供账号销售、代开、转租，不提供节点细节或源代码。  
 > 使用过程中请严格遵守中国大陆及各节点所在地区的法律法规与服务条款。
@@ -269,5 +269,5 @@ A：建议优先查看八戒官网的帮助文档、公告与使用说明。如�
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`
-- **Last Updated:** `2026-06-29`
-- **Version:** `v1.1`
+- **Last Updated:** `2026-8-9`
+- **Version:** `v1.2`
