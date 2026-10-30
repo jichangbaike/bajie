@@ -8,7 +8,7 @@
 
 
 > 本仓库用于整理八戒 Bajie 的官网注册入口说明、套餐信息、多平台使用指引以及常见问题，仅提供公开信息汇总，请以官网公布为准。  
-> 最后更新：2026-8-9
+> 最后更新：2026-10-30
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -83,9 +83,9 @@
   - 网页、视频、AI 工具使用基本流畅；  
   - 虽有波动，但未出现普遍不可用情况。
 
-<img src="https://raw.githubusercontent.com/jichangbaike/bajie/refs/heads/main/images/bajie-test-20260809.png" alt="八戒 bajie 机场">
+<img src="https://raw.githubusercontent.com/jichangbaike/bajie/refs/heads/main/images/bajie-test-20261030.jpg" alt="八戒 bajie 机场">
 
-> 测试时间：2026-8-9， 测试网络：电信 1Gbps
+> 测试时间：2026-10-30， 测试网络：电信 1Gbps
 
 ## 套餐与价格一览
 
@@ -269,5 +269,5 @@ A：建议优先查看八戒官网的帮助文档、公告与使用说明。如�
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`
-- **Last Updated:** `2026-8-9`
-- **Version:** `v1.2`
+- **Last Updated:** `2026-10-30`
+- **Version:** `v1.3`
